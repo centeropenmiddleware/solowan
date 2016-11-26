@@ -1,2 +1,2 @@
 # Solowan
-SoloWAN project has been moved to a new repository: [SoloWAN project](https://github.com/solowan/solowan) 
+SoloWAN has been moved to a new github repository: [SoloWAN project](https://github.com/solowan/solowan) 
